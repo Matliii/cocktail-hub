@@ -3,25 +3,29 @@
     height: 5rem;
     display: flex;
     align-items: center;
+    background-color: #252839;
     border-bottom: 2px solid #3d2c8d;
     box-shadow: var(--lightShadow);
   }
 
   .nav-center {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    display: inline-flex;
+    justify-content:space-between;
+    align-items:center;
     width: var(--smallWidth);
     margin: 0 auto;
     max-width: var(--fullWidth);
+    
   }
 
   .nav-links {
+    color: white;
     display: flex;
     align-items: center;
   }
 
   .nav-links a {
+    color: white;
     text-transform: capitalize;
     display: inline-block;
     font-weight: bold;
@@ -37,8 +41,9 @@
   }
 
   .cocktail-text {
-      font-size: 28px;
-      font-weight: 700;
-      font-family: "Trebuchet MS", Verdana, sans-serif;
-      text-shadow: 2px 2px 5px rgba(141, 135, 135, 0.418);
+    color: #b3eeb1;
+    font-size: 34px;
+    -webkit-text-stroke: 2px;
+    border-left: 2px solid;
+    overflow: hidden;
   }
