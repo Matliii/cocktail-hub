@@ -63,3 +63,9 @@
     width: 100%;
     display: block;
   }
+
+  .content{
+      padding: 5%;
+      font-size: 22px;
+      font-weight: 300;
+  }
