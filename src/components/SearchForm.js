@@ -1,6 +1,6 @@
 import React from 'react'
 import './SearchForm.css'
-import { useGlobalContext } from '../Context';
+import { useGlobalContext } from '../context';
 
 
 export default function SearchForm() {
@@ -35,5 +35,6 @@ export default function SearchForm() {
                 </div>
             </form>
         </section>
+        
     )
 }
