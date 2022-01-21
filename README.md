@@ -1,2 +1,3 @@
-# Visit the site:
-Cocktail hub: https://cocktail-hub-1.herokuapp.com/
+# Cocktail hub:
+React app using (www.thecocktaildb.com) API's.
+Visit the site at: https://cocktail-hub-1.herokuapp.com/
