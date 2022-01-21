@@ -1,2 +1,2 @@
 # Visit the site:
-https://cocktail-hub-1.herokuapp.com/
+Cocktail hub: https://cocktail-hub-1.herokuapp.com/
